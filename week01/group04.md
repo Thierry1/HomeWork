@@ -1,0 +1,9 @@
+# day01.0601
+
+| 姓名   | 笔记完成内容                                                 | 录音完成内容 | 遇到的问题                                         | 地址                                                 |
+| :----- | ------------------------------------------------------------ | ------------ | -------------------------------------------------- | ---------------------------------------------------- |
+| 杨若敏   | 1.Github操作2.Android与Js的交互（Android调用jS，JS调用Android）|       完成       | 第二题相册不会，JS交互不会 | https://github.com/YangRuoMin?tab=repositories |
+| 周胜清  |  1.Github操作2.Android与Js的交互（Android调用jS，JS调用Android）                                                            |    完成<br>         |         第二题相册不会，JS交互不会                                           |      https://github.com/zsq-sq?tab=repositories                                               
+| 李佳怡 | 1.Github操作2.Android与Js的交互（Android调用jS，JS调用Android）                                                              |完成              |第二题相册不会，JS交互不会                                                    |https://github.com/ljy0505?tab=repositories                                            |
+| 杨瑞磊   |1.Github操作2.Android与Js的交互（Android调用jS，JS调用Android）                                                    |完成              |第二题相册不会，JS交互不会                                                    | https://github.com/yangruilei?tab=repositories                                     |
+| 万政琦  |1.Github操作2.Android与Js的交互（Android调用jS，JS调用Android） |   完成           |     第二题相册不会，JS交互不会     |      https://github.com/wsy789?tab=repositories                                       |
